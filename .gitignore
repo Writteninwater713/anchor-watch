@@ -1,0 +1,10 @@
+# R 临时文件
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# 系统文件
+.DS_Store
+Thumbs.db
